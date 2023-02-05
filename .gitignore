@@ -1,0 +1,12 @@
+/RootJam/Library/PackageCache/
+/RootJam/Library/
+/RootJam/UserSettings/
+/RootJam/obj/
+/RootJam/bin/
+/RootJam/Logs/
+/RootJam/Temp/
+/RootJam/Builds/
+/RootJam/.vs/
+/RootJam/Packages/
+
+*.cache
